@@ -1,0 +1,4 @@
+﻿  3.1 Programming exercise.cpp
+C:\Users\Julian\source\repos\3.1 Programming exercise\3.1 Programming exercise\3.1 Programming exercise.cpp(12,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Julian\source\repos\3.1 Programming exercise\3.1 Programming exercise\3.1 Programming exercise.cpp(13,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3.1 Programming exercise.vcxproj -> C:\Users\Julian\source\repos\3.1 Programming exercise\Debug\3.1 Programming exercise.exe

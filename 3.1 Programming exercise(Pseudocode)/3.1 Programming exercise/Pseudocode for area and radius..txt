@@ -1,0 +1,5 @@
+Display Prompt "Enter radius:" 
+Output the prompt for the circle's radius to cout
+Read value from keyboard
+area = PI(3.1416) * radius * radius
+Output area to cout 
